@@ -3,7 +3,7 @@
 A curated list of technology conferences organized by category.
 
 ## Cloud
-- [AWS re:Invent 2024](cloud/AWS/reinvent_2024.md)
+- [AWS re:Invent 2024](cloud/AWS/README.md)
 - [Microsoft Build 2024](cloud/Azure/microsoft_build_2024.md)
 - [Google Cloud Next 2024](cloud/GCP/google_cloud_next_2024.md)
 
