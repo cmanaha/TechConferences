@@ -26,12 +26,15 @@ A curated list of technology conferences
 
 ## Python
 - [PyCon 2024](programming/pycon_us_2024.md)
+- [PyTorch 2024](programming/pytorch_conference_2024.md)
+- [EuroPython 2024](programming/europython_2024.md)
 
 ## Rust
 - [Conf42 Rust Lang 2024](programming/conf42_rustlang_2024.md)
 - [RustConf 2024](programming/rustconf_2024.md)
 
 ## Software Engineering, DevOps and Architecture
+- [P99 Conf 2024](https://www.p99conf.io/)
 - [CodeDive 2024 Interviews](programming/codedive_2024_interviews.md)
 - [The DevOps Conference 2024](devops/the_devops_conference_copenhagen_stockholm_2024.md)
 - [Software Architecture Conference 2024](architecture/software_architecture_conference_2024.md)
