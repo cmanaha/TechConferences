@@ -8,8 +8,8 @@ A curated list of technology conferences
 - [Google Cloud Next 2024](cloud/GCP/google_cloud_next_2024.md)
 
 ## Kubecon
-- [Kubecon North America 2024](kubecon/kubecon/cloudnativecon_na_2024_salt_lake_city.md)
-- [Kubecon Europe 2024](kubecon/kubecon/kubecon_cloudnativecon_europe_2024.md)
+- [Kubecon North America 2024](kubecon/kubecon_cloudnativecon_na_2024_salt_lake_city.md)
+- [Kubecon Europe 2024](kubecon/kubecon_cloudnativecon_europe_2024.md)
 
 
 ## Open Source
