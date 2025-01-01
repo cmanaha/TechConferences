@@ -1,6 +1,6 @@
 # Tech Conferences
 
-A curated list of technology conferences
+A curated list of technology conferences. 
 
 ## Cloud
 - [AWS re:Invent 2024](cloud/AWS/README.md)
@@ -44,6 +44,7 @@ A curated list of technology conferences
 ## Contributing
 
 Feel free to submit a pull request to add more technology conferences to the list.
+Playlists have been created with : [https://github.com/cmanaha/youtube_playlist_summary](https://github.com/cmanaha/youtube_playlist_summary)
 
 ## License
 
