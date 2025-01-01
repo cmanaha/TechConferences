@@ -19,13 +19,13 @@ A curated list of technology conferences
 
 ## C++
 - [CppCon 2024](programming/cppcon_2024.md)
-- [C++onSea 2024 2024](programming/cppsea_2024.md)
+- [C++onSea 2024 2024](programming/consea_2024.md)
 - [Meeting C++ 2024](programming/meeting_c_2024.md)
 - [CppNow 2024](programming/cppnow_2024.md)
 - [Pure Virtual C 2024](programming/pure_virtual_c_2024.md)
 
 ## Python
-- [PyCon 2024](programming/pycon_2024.md)
+- [PyCon 2024](programming/pycon_us_2024.md)
 
 ## Rust
 - [Conf42 Rust Lang 2024](programming/conf42_rustlang_2024.md)
@@ -33,7 +33,7 @@ A curated list of technology conferences
 
 ## Software Engineering, DevOps and Architecture
 - [CodeDive 2024 Interviews](programming/codedive_2024_interviews.md)
-- [The DevOps Conference 2024](devops/the_devops_conference_cophenhagen_stockholm_2024.md)
+- [The DevOps Conference 2024](devops/the_devops_conference_copenhagen_stockholm_2024.md)
 - [Software Architecture Conference 2024](architecture/software_architecture_conference_2024.md)
 
 
