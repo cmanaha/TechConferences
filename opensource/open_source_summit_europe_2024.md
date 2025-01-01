@@ -1,4 +1,5 @@
 # Open Source Summit Europe 2024
+[Back to all conferences](../README.md)
 
 <h2 id='table-of-contents'>Table of Contents</h2>
 
