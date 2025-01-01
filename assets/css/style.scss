@@ -5,7 +5,13 @@
 
 .page-header {
   padding: 2rem 1rem;
-  background: linear-gradient(120deg, #811599, #401599);
+  //background: linear-gradient(120deg, #811599, #401599);
+  background-image: url('/TechConferences/assets/images/techtalkreplay.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+
 
 
   .project-name {
