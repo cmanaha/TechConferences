@@ -1,6 +1,6 @@
-# TechConferences
+# Tech Conferences
 
-A curated list of technology conferences organized by category.
+A curated list of technology conferences
 
 ## Cloud
 - [AWS re:Invent 2024](cloud/AWS/README.md)

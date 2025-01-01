@@ -25,7 +25,7 @@ AWS re:Invent is Amazon Web Services' annual cloud computing conference. The eve
 - [New to AWS Track](aws_reinvent_2024_new_to_aws.md)
 - [Partner Track](aws_reinvent_2024_partner_sessions.md)
 - [Partner Enablement Track](aws_reinvent_2024_partner_enablement.md)
-- [Serverless Track](aws_reinvent_2024_serverless.md)
+- [Serverless Track](aws_reinvent_2024_serverless_compute.md)
 - [SMB Track](aws_reinvent_2024_smb.md)
 - [Storage Track](aws_reinvent_2024_storage.md)
 
