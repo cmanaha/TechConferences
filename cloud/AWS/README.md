@@ -1,5 +1,5 @@
 # AWS re:Invent 2024
-[Back to all conferences](../README.md)
+[Back to all conferences](../../README.md)
 
 AWS re:Invent is Amazon Web Services' annual cloud computing conference. The event features keynote announcements, training opportunities, and technical sessions.
 
