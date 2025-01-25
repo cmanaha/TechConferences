@@ -38,6 +38,8 @@ A curated list of technology conferences.
 - [CodeDive 2024 Interviews](programming/codedive_2024_interviews.md)
 - [The DevOps Conference 2024](devops/the_devops_conference_copenhagen_stockholm_2024.md)
 - [Software Architecture Conference 2024](architecture/software_architecture_conference_2024.md)
+- [Devoxx Belgium 2024](devops/devoxx_belgium_2024.md)
+- [Devoxx UK 2024](devops/devoxx_uk_2024.md)
 
 
 
