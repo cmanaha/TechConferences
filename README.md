@@ -40,6 +40,8 @@ A curated list of technology conferences.
 - [Software Architecture Conference 2024](architecture/software_architecture_conference_2024.md)
 - [Devoxx Belgium 2024](devops/devoxx_belgium_2024.md)
 - [Devoxx UK 2024](devops/devoxx_uk_2024.md)
+- [SRECon Americas 2024](devops/srecon24_americas.md)
+- [SRECon EMEA 2024](devops/srecon24_europemiddle_east_africa.md)
 
 
 
